@@ -7,7 +7,7 @@ Full-Stack Engineer
 I've been coding for 25+ years. I started in server development, then moved onto APIs and front-end development, and eventually fused all of those skills together as a full-stack engineer.
 
 * 🌍  I'm based in Dayton, Ohio
-* ✉️  You can contact me at [yojoe26@yahoo.com](mailto:yojoe26@yahoo.com)
+* ✉️  You can contact me at [yojoe2614@gmail.com](mailto:yojoe2614@gmail.com)
 * 🚀  I'm currently working on [SciVal](http://scival.com)
 * 🧠  I'm learning ReactJS
 
